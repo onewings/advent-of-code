@@ -1,9 +1,9 @@
 # Advent-of-code with C++
 
-C++ solutions for advent of code 2022
+C++ solutions for advent of code
 
 ## How to compile
-    cd 2022
+    cd 2023
     mkdir build
     cd build
     cmake ..
