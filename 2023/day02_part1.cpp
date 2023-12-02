@@ -1,6 +1,6 @@
 //----------------------------------------
-// --- Day 2: Rock Paper Scissors ---
-// https://adventofcode.com/2022/day/2
+// --- Day 2: Cube Conundrum ---
+// https://adventofcode.com/2023/day/2
 //----------------------------------------
 
 #include <iostream>
