@@ -40,3 +40,5 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 *.in
+day[0-9][0-9]_part1
+day[0-9][0-9]_part2
