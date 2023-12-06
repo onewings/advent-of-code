@@ -40,7 +40,6 @@ int main()
 
     std::string line;
     unsigned sum = 0;
-    std::vector<std::string> matrix;
 
     while (std::getline(ifs, line)) {
         std::unordered_set<int> winning_numbers;
