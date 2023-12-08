@@ -1,6 +1,6 @@
 //----------------------------------------
-// --- Day 6: Wait For It ---
-// https://adventofcode.com/2023/day/6
+// --- Day 7: Wait For It ---
+// https://adventofcode.com/2023/day/7
 //----------------------------------------
 
 #include <iostream>
